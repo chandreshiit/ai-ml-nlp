@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/chandreshiit/ai-ml-nlp.git
+	branch = main
