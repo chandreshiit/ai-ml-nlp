@@ -108,4 +108,4 @@ cd public
 
 git add/commit/push
 
-see wowchemy for more info
+see wowchemy for more info: https://wowchemy.com/docs/hugo-tutorials/deployment/
