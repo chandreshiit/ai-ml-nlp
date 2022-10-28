@@ -83,19 +83,11 @@ user_groups:
 
 ---
 
-user_groups:
-- Researchers
-- PhD Students
-
-
-
----
-
-❖ Lipika ,a plesant personality woman who always keeps willingness to learn new skills through extensive study and persistent practices exploring latest tools and technologies.
-❖ She is having more than 5 years of teaching experience in the field of academic.
-❖ Proficiency in Python/ML/DL implementation using keras/Tensorflow.
-❖ She has done projects on Human sentiment Analysis using NLP and DL,Insights for Telecom Call Data Analytics and Analysis of Terrorism Data on world data and specific to India. 
-❖ She has got practical exposer in doing hands on in Deep Learning using medical data such as Breast cancer,Lung Cancer ,Covid and Diabetes Detection and has got few skills on computer vision using OpenCv.
+- Lipika ,a plesant personality woman who always keeps willingness to learn new skills through extensive study and persistent practices exploring latest tools and technologies.
+-  She is having more than 5 years of teaching experience in the field of academic.
+-  Proficiency in Python/ML/DL implementation using keras/Tensorflow.
+-  She has done projects on Human sentiment Analysis using NLP and DL,Insights for Telecom Call Data Analytics and Analysis of Terrorism Data on world data and specific to India. 
+-  She has got practical exposer in doing hands on in Deep Learning using medical data such as Breast cancer,Lung Cancer, Covid and Diabetes Detection and has got few skills on computer vision using OpenCv.
 
 
 

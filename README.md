@@ -106,6 +106,6 @@ hugo
 
 cd public
 
-git add/commit/push
+copy all files in public folder to code/chandreshiit.github.io folder and push to git.
 
 see wowchemy for more info: https://wowchemy.com/docs/hugo-tutorials/deployment/
