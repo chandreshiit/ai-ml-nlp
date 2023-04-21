@@ -83,17 +83,15 @@ user_groups:
 
 ---
 
----
+- Ankit is interested in solving the problems realated to the day to day life for all living entities, so that their life can beacome easy, peaceful and joyful.
+-  He is having more than 7 years of industrial research experience in the domain of artificial intelligence.
+- Had been a part of Research Labs and developed AI, ML and data science solutions on cloud for various Software Integrators and he has published multiple patents and research papers. 
+- Have hands on most of the Analytics tools for all kind of datasets (text, image, video, numerical etc).
+-  Proficient in analyzing and translating business requirements to technical requirements and architecture as well as Client Management. 
+-  Experience in working with people and teams spanned across multiple geographic, with apt interpersonal skills. 
+-  Have given the various technical enablements at IT organizations and colleges, on AI, Cloud computing, Big Data, Block Chain & Data Science algorithms.
 
-❖ Ankit is interested in solving the problems realated to the day to day life for all living entities, so that their life can beacome easy, peaceful and joyful.
-❖ He is having more than 7 years of industrial research experience in the domain of artificial intelligence.
-❖ Had been a part of Research Labs and developed AI, ML and data science solutions on cloud for various Software Integrators and he has published multiple patents and research papers.
-❖ Have hands on most of the Analytics tools for all kind of datasets (text, image, video, numerical etc)
-❖ Proficient in analyzing and translating business requirements to technical requirements and architecture as well as Client Management.
-❖ Experience in working with people and teams spanned across multiple geographic, with apt interpersonal skills.
-❖ Have given the various technical enablements at IT organizations and colleges, on AI, Cloud computing, Big Data, Block Chain & Data Science algorithms.
-
-❖ Publications
+ Publications
  -  A system and method for meta-data extraction from documents. (Patent) Application Number : 202141038813 (Ind)
  -  A system and method for examining the relevancy of documents. (Patent)Application Number : 202141028709 (Ind) PCT/IB2022/052469 (PCT)
  -  Towards Automatic Pharmacovigilance: Analyzing Patient Reviews and Sentiment on Oncological Drugs 2015 IEEE International Conference on Data Mining (ICDMW). Performed aspect-based sentiment analysis on Cancer reviews, data crawled from different patient forums.

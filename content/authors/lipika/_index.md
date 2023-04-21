@@ -77,8 +77,7 @@ email: "phd2101201004@iiti.ac.in"
 
 user_groups:
 - Researchers
-- PhD Students
-
+- Graduate Students
 
 
 ---
