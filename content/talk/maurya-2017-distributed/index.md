@@ -1,24 +1,26 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "[25/8/23] Received Young Scientis Award from DST"
-subtitle: ""
-summary: ""
-authors: [ckm]
+title: Distributed Sparse Class-Imbalance Learning and its Applications
+subtitle: ''
+summary: ''
+authors:
+- Chandresh Kumar Maurya
+- Durga Toshniwal
+- Gopalan Venkoparao
 tags: []
 categories: []
-date: 2022-05-22T15:05:04+05:30
-lastmod: 2022-05-22T15:05:04+05:30
-featured: false
+date: '2017-01-01'
+lastmod: 2022-05-05T18:43:51+05:30
+featured: true
 draft: false
-commentable: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: ''
+  focal_point: ''
   preview_only: false
 
 # Projects (optional).
@@ -27,5 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+publishDate: '2022-05-05T13:13:51.071534Z'
+publication_types:
+- '2'
+abstract: ''
+publication: '*IEEE Transactions on Big Data*'
 ---
-

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Mean teacher Explained"
+title: "[11/8/2023] Received seed grant from IIT indore to work on safety of two wheelers. Thank you IIT Indore"
 subtitle: ""
 summary: ""
 authors: [ckm]

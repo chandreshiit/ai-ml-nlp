@@ -1,5 +1,5 @@
 ---
-title: Blogs
+title: ews
 type: "widget_page"
 
 # View.

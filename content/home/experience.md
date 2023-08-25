@@ -26,11 +26,11 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Responsibilities include:
-  
+
   * Analysing
   * Modelling
   * Deploying
-  """
+    """
 
 [[experience]]
   title = "Professor"
